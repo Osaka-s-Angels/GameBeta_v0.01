@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CorridorFirstDungeonGenerator">
+    <Position X="30.75" Y="21.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAABAAAAAAAQAAgEAAAIAAAAAAAAAgAAAI=</HashCode>
+      <FileName>Assets\Scripts\PG Scripts\CorridorFirstDungeonGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractDungeonGenerator">
+    <Position X="32" Y="15.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACCAAAAAABAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PG Scripts\AbstractDungeonGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProceduralGenerationAlgorithms">
+    <Position X="28.5" Y="15.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgBAAAgAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\PG Scripts\ProceduralGenerationAlgorithms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Direction2D">
+    <Position X="28.5" Y="18" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAABQAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\PG Scripts\ProceduralGenerationAlgorithms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoomFirstDungeonGenerator">
+    <Position X="33.5" Y="21.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAKAACAAAAAAAgAAACAAQAAAECQAIAAgQAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\PG Scripts\RoomFirstDungeonGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleRandomWalkDungeonGenerator">
+    <Position X="32" Y="18.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAQAAQAA=</HashCode>
+      <FileName>Assets\Scripts\PG Scripts\SimpleRandomWalkDungeonGenerator1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TilemapVisualizer">
+    <Position X="39.75" Y="18" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAIEAAEAAQAAQECAAABBAUAogAgAABAAAABMAAA=</HashCode>
+      <FileName>Assets\Scripts\PG Scripts\TilemapVisualizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WallGenerator">
+    <Position X="36.5" Y="15.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAgAAAAAAAAAAAAAAAAAAAAAAAAAAABBA=</HashCode>
+      <FileName>Assets\Scripts\PG Scripts\WallGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WallTypesHelper">
+    <Position X="36.5" Y="18" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAIAAAAAAAAAQECAAABBAUAoAAAAAgAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PG Scripts\WallTypeHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleRandomWalkSO">
+    <Position X="40" Y="15.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAgAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PG Scripts\Data\SimpleRandomWalkSO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
